@@ -1,0 +1,5 @@
+
+
+
+GET http://shopaa.click/api/v1/access/info HTTP/1.1
+x-api-key: d9c34385-64f0-4619-b6ef-53c7ddc46be4
